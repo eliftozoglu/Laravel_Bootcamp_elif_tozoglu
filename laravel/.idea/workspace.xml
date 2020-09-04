@@ -131,7 +131,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laravel_2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\asus\www\laravel\public" />
+      <recent name="C:\Users\asus\www\laravel\public\js" />
+    </key>
+>>>>>>> 4e131ad9bad936e8778484dcdf76597a11ba74b4
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -149,11 +159,38 @@
       <updated>1598360350582</updated>
       <workItem from="1598360351829" duration="2675000" />
       <workItem from="1598447822192" duration="4359000" />
+<<<<<<< HEAD
       <workItem from="1598520914540" duration="15858000" />
+=======
+      <workItem from="1598520914540" duration="16465000" />
+      <workItem from="1598618478431" duration="8969000" />
+      <workItem from="1598684457271" duration="7294000" />
+      <workItem from="1598698709272" duration="10564000" />
+      <workItem from="1598771024618" duration="9401000" />
+      <workItem from="1598906778933" duration="219000" />
+      <workItem from="1598954531711" duration="3041000" />
+      <workItem from="1599050867777" duration="5852000" />
+      <workItem from="1599124778847" duration="9827000" />
+      <workItem from="1599216995315" duration="5130000" />
+      <workItem from="1599225371927" duration="268000" />
+>>>>>>> 4e131ad9bad936e8778484dcdf76597a11ba74b4
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="WindowStateProjectService">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1599225388945">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1599225388945" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1598635771538">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1598635771538" />
+  </component>
+>>>>>>> 4e131ad9bad936e8778484dcdf76597a11ba74b4
 </project>

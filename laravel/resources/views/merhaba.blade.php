@@ -14,7 +14,11 @@
 <h1>Hello, world!</h1>
 Merhaba burda view çalıştı! <br>
 @foreach($products as $product)
+<<<<<<< HEAD
     {{ $product->user[0]->name }} - {{$product->name}} -{{$product->price .' $'}} <br>
+=======
+  {{-- $product->user[0]->name }} - {{$product->name}} -{{$product->price .' $'}} <br>  --}}
+>>>>>>> 4e131ad9bad936e8778484dcdf76597a11ba74b4
 @endforeach
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
