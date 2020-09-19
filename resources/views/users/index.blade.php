@@ -25,7 +25,7 @@
                             <td class="text-right">{{$user->email}}</td>
                             <td class="text-right"><button type="button" class="btn btn-primary" onclick="location.href='/sil/{{$user->id}}'">Sil</button></td>
                             <td class="text-right"><button type="button" class="btn btn-primary" onclick="location.href='/guncelle/{{$user->id}}'">Güncelle</button></td>
-                            <td class=""text-right"><a href="/indir">İNDİR</a></td>
+                            <td class="text-right"><a href="/indir">İNDİR</a></td>
                     @endforeach
                     </tbody>
                 </table>
